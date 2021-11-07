@@ -52,3 +52,7 @@ def divis(div1, div2):
           return div1[i]
   return 0
 
+def affichage(X):
+  print(" "+str(X.num))
+  print("---")
+  print(" "+str(X.denom))
