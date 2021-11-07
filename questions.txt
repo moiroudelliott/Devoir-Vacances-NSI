@@ -1,0 +1,5 @@
+exercice 5 question 5 :
+
+Les dunders sont des méthodes qui seront rarement appellée directement.
+par exemple en faisant 1+1 on fera appel à __add__().
+En python le dunder __add__ sera utiliser si on veut additionner des nombres mais également pour additionner des textes.
